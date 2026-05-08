@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Shomoy
+
+This log tracks the cryptographic history and versioning for the song **Shomoy** (shomoy).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-08T17:05:58.491146 | `v1` | `b52ba7c3750390ab484a664838abad3870147ec0dc79c053df4f1670bf25a8cd` | `38ca1d3eee504665d50d093d343af83478b26da25f152aeaad8bef8ec6916ec2` | `2026-05-08_shomoy-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
